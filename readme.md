@@ -1,0 +1,1 @@
+There are 21 datasets in total. These include four sets of data from each of the four participants (with step counts of 30, 50, 100, and 200 steps), three sets of 100-meter data for calculating the k-value, as well as one set of 100-meter data and one set of basketball court(Rectangular Validation) experiment data.
